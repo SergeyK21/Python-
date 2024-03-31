@@ -1,0 +1,7 @@
+3,1  +    d = could not convert string to float: 'd'
+  4,3 + 5   = 9.3
+  4 - 5   = -1.0
+  4 * 5   = 20.0
+  20 / 5   = 4.0
+  21 / 5   = 4.2
+  21 / 0   = float division by zero
